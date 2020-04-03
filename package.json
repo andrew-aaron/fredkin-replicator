@@ -1,0 +1,11 @@
+{
+  "name": "fredkin",
+  "version": "1.0.0",
+  "description": "Implementation of Fredkin's Replicator with output in the console.",
+  "main": "Fredkin.js",
+  "scripts": {
+	"fredkin": "node Fredkin.js"
+  },
+  "author": "Andrew Aaron",
+  "license": "ISC"
+}
